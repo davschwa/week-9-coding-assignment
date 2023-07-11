@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author davsc
+ *
+ */
+module MyFirstProject {
+}
